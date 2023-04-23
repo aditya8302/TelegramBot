@@ -115,7 +115,7 @@ def help(update: Update, context):
                               '/add_item - Add an item to the inventory\n'
                               '/remove_item - Remove an item from the inventory\n'
                               '/order - Order Items\n'
-                              '/view_inventory - View the current inventory'
+                              '/view_inventory - View the current inventory\n'
                               '/feedback - to give feedback to us')
 
 # Define the add_item command handler
